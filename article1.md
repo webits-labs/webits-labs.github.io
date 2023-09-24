@@ -9,6 +9,6 @@ This is the font that is used for regular comments
 - This creates a bullet point
 
 | This creates | A List |
-| Contents of the list| 
+| Header | Header 2 | 
 | This is | A Test    |
 
