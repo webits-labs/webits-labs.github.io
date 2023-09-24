@@ -2,7 +2,7 @@
 
 ## Story:
 In a recent thread about keeping apps/system files updated using Discover Store; 
-A redditor recently dropped a comment about updating their apps using Discover, without having to switch back and forth from Desktop mode
+A redditor recently dropped a comment^1 about updating their apps using Discover, without having to switch back and forth from Desktop mode
 Their solution was tested and it works just as expected and can be accomplished as follows
 
 ## Steps:
@@ -19,3 +19,6 @@ To exit Discover Store, press the "Steam" button -> click "Exit Game"
 ## Conclusion:
 So now moving forward whenever you want to check the Discover store for updates or install a new application, head over to your Discover Store  in GameMode
 There is no difference between applying updates in GameMode vs Desktop Mode
+
+### References
+^1 reddit.com/comment30q29342034923049235092350923845
