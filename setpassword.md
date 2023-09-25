@@ -29,7 +29,7 @@ to set one up, and there are multiple ways to accomplish the same goal.
 8. Click "Set Password" to set your desired password
 9. Proceed to testing steps below
 
-#Always make sure to document your credentials in a secure, redundant location, such as a password manager.  
+# Always make sure to document your credentials in a secure, redundant location, such as a password manager.  
 - Forgetting your admin password may lock you out in the future
 
 
