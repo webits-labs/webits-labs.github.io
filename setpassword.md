@@ -35,7 +35,7 @@ to set one up, and there are multiple ways to accomplish the same goal.
 
  ## Testing:
 If previously attempting to perform an action that prompted the input for the admin password, repeat that action again
- 1. When prompted for the password, enter the new password created above
+ 1. When prompted for the password, type the password created above
  2. If successful, prompt will disappear and the next step of your action will begin
 
 ## Conclusion:
