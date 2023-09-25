@@ -13,9 +13,9 @@ to set one up, and there are multiple ways to accomplish the same goal.
 1. On your deck, switch to desktop mode if not already
 2. Open start menu -> Open "Terminal"
 3. Type the following to set your admin password:
-   '''
+   ```
    passwd
-   '''
+   ```
 4. Type in the password you wish to set -> Hit "Enter" key
 5. Repeat the same password a 2nd time to confirm
 6. Proceed to testing steps below
