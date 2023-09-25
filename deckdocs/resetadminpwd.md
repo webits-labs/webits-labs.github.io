@@ -1,15 +1,15 @@
 # How to reset your Admin password if lost or forgotton
 
-# Story:
+## Story:
 In a previous article, we showed you how to set your admin password and advised to document it in the event that its lost or forgotton over time.  Fret not,
 as we can and are indeed able to reset the password with a little bit of work should it be needed.
 
-# Pre-requisites:
+## Pre-requisites:
 1. Steam Recovery OS on bootable USB
 2. Dedicated Keyboard and Mouse
 3. USB-C to USB-A hub for all the devices above
 
-# Steps:
+## Steps:
 1. Boot into recovery usb
 2. open terminal from desktop, should be fourth icon
 3. Type `passwd deck`, type your new password, document it
@@ -37,7 +37,7 @@ as we can and are indeed able to reset the password with a little bit of work sh
 25. Type `passwd deck`, Type set new password
 26. Proceed to Testing steps
 
-# Testing Steps:
+## Testing Steps:
 Sudo should now be working again with the new password.  To test:
 1. Execute an application that prompts for admin password
 2. Type the new password and confirm application executes as expected
