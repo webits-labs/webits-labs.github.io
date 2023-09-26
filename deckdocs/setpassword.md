@@ -19,7 +19,7 @@ to set one up, and there are multiple ways to accomplish the same goal.
 5. Repeat the same password a 2nd time to confirm
 6. Proceed to testing steps below
 
- ## Option 2: GUI and user account
+ ## Option 2: GUI and User Account Settings
 1. On your deck, switch to desktop mode if not already
 2. Open start menu -> Open "Settings"
 3. On left side column -> under "Personalization" -> Click "Users"
