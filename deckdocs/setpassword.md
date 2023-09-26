@@ -14,6 +14,7 @@ to set one up, and there are multiple ways to accomplish the same goal.
 2. Open start menu -> Open "Terminal"
 3. Type the following to set your admin password:
    `passwd`
+<img src="https://github.com/webits-labs/webits-labs.github.io/blob/main/setpassword.md-terminal-input.png" />
 4. Type in the password you wish to set -> Hit "Enter" key
 5. Repeat the same password a 2nd time to confirm
 6. Proceed to testing steps below
