@@ -25,7 +25,9 @@ to set one up, and there are multiple ways to accomplish the same goal.
 3. On left side column -> under "Personalization" -> Click "Users"
 4. Select "Steam Deck User" under "Manage Users"
 5. Click "Change Password" button
+
 <img src="https://github.com/webits-labs/webits-labs.github.io/blob/main/setpassword.md-gui-input.png" />
+
 6. When prompted, type the password you wish to set
 7. Repeat the same password a 2nd time to confirm
 8. Click "Set Password" to set your desired password
