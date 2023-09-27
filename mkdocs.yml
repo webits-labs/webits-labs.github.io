@@ -1,7 +1,7 @@
 site_name: Webits Labs Docs
 site_url: https://webits-labs.github.io
 nav:
-  - Home: index.html
+  - Home: index.md
   #- About: about.md
   - 'Tips & Tricks':
     - PASSWORD: deckdocs/setpassword.md
