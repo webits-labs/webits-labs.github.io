@@ -1,0 +1,25 @@
+site_name: Webits Labs Docs
+site_url: https://webits-labs.github.io
+nav:
+  - Home: index.html
+  #- About: about.md
+  - 'Tips & Tricks':
+    - PASSWORD: deckdocs/setpassword.md
+    
+repo_url: https://github.com/webits-labs/webits-labs.github.io
+theme: 
+  name: readthedocs
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+plugins:
+  - search
+  #- enumerate-headings:
+  #    toc_depth: 0
+  #    strict: true
+  #    increment_across_pages: true
+  #    include:
+  #      - "*"
+  #    exclude:
+  #      - index.md
+  #    restart_increment_after:
+  #      - second_section.md
