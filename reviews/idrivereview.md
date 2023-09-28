@@ -28,21 +28,7 @@ you can request a hard drive from iDrive.  They provide 1 shipment per year at n
 
 Which leads me to reason #2, if you are anything like me, the thought of uploading 5TB to the cloud seemed like a fruitless endevour.  Even with decent internet, I have about 500 MB Down but only around 20 MB Up.
 (Which is probably the fastest my upload has ever been).  But doing the math, even at 20 MB, uploading 5TB would take a couple of months if left to upload 24 hours a day 7 days a week, and I wasn't interested 
-in that.  Thankfully, iDrive Express includes 1 free drive shipment to your door for uploading your data onto physical media.  The process is quite simple and consists of:
-
-## Getting started using iDrive
-1. Installing the iDrive Backup Software on your computer.  iDrive supports MacOS, Windows client and Windows Server.
-2. Create account and purchase 1 year of 5TB iDrive cloud storage
-3. From within iDrive software, proceed to iDrive Express section
-4. Request your drive by fillign out your information including name and address
-5. Once drive arrives (mine arrived within a couple of days) connect to computer with iDrive backup software installed
-6. Select the external iDrive hard disk as the backup destination
-7. Select the data you wish to backup to iDrive.  This process will vary, however typically select the highest root folder of data you wish to backup to capture as much as possible
-8. Backup your data.  Even with physical media, iDrive backups run with a number of checks and verifications during the process to ensure data integrity.  Even though I had a WD elements external USB 3.0 drive capable of over 100 MB/s, my backup never exceeded 30 MB/s.  This is by design per the iDrive rep I spoke with about this.
-10. Once backup is complete, exit iDrive software and eject external drive
-11. Pack the drive back into original packaging and ship back to iDrive
-12. Once drive is recieved at the datacenter, iDrive technicians will begin uploading your backup into your account
-13. Once upload has been completed, data will be available for viewing in the iDrive desktop app as well as online via your idrive web portal
+in that.  Thankfully, iDrive Express includes 1 free drive shipment to your door for uploading your data onto physical media.  The process is quite simple and steps can be found at [here] (deckdocs/idrivesetup.md)
 
 As mentioned above, this is only one way in which iDrive feels like an extension of your local storage.  Per Reason #1, the iDrive software running on your computer opens a portal to your cloud storage, where 
 managing your existing and future backups is handled, as well as having to do any individual restores,  Paired with reason #4, you can automate your backups to monitor specific folders and files on your computer,
