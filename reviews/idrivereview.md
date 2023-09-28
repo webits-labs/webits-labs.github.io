@@ -28,7 +28,7 @@ you can request a hard drive from iDrive.  They provide 1 shipment per year at n
 
 Which leads me to reason #2, if you are anything like me, the thought of uploading 5TB to the cloud seemed like a fruitless endevour.  Even with decent internet, I have about 500 MB Down but only around 20 MB Up.
 (Which is probably the fastest my upload has ever been).  But doing the math, even at 20 MB, uploading 5TB would take a couple of months if left to upload 24 hours a day 7 days a week, and I wasn't interested 
-in that.  Thankfully, iDrive Express includes 1 free drive shipment to your door for uploading your data onto physical media.  The process is quite simple and steps can be found at [here] (deckdocs/idrivesetup.md)
+in that.  Thankfully, iDrive Express includes 1 free drive shipment to your door for uploading your data onto physical media.  The process to setup an iDrive account has been documented [here](https://webits-labs.github.io/deckdocs/idrivesetup)
 
 As mentioned above, this is only one way in which iDrive feels like an extension of your local storage.  Per Reason #1, the iDrive software running on your computer opens a portal to your cloud storage, where 
 managing your existing and future backups is handled, as well as having to do any individual restores,  Paired with reason #4, you can automate your backups to monitor specific folders and files on your computer,
